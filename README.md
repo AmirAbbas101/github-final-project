@@ -12,5 +12,5 @@ A calculator that calculates simple interest given principal, annual rate of int
    r, annual rate of interest
   </li>
   </ul>
-## Output
+<h2>Output</h2>
    simple interest = p*t*r
